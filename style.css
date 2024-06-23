@@ -66,6 +66,7 @@ body{
     border: 2px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
+    justify-content: space-between;
 }
 
 .parametro-titulo{
